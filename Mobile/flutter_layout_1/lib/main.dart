@@ -73,11 +73,11 @@ class MyApp extends StatelessWidget {
         ),
         body: ListView(
           children: [
-              // Image.asset(
-              //   'images/kuil-kiyomizu.jpg',
-              // width: 600,
-              // height: 240,
-              // fit: BoxFit.cover,),
+              Image.asset(
+                'images/kuil-kiyomizu.jpg',
+              width: 600,
+              height: 240,
+              fit: BoxFit.cover,),
             titleSection,
             buttonSection,
             textSection,
