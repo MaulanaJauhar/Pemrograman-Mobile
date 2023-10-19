@@ -78,16 +78,16 @@ Item pada ListView saat ini ketika ditekan masih belum memberikan aksi tertentu.
 ### Hasil Akhir
 > HomePage
 
-<img src="screenshot/flutter_02.png" width="700">
+<img src="screenshot/flutter_02.png" width="400">
 
 > Item 1
 
-<img src="screenshot/flutter_03.png" width="700">
+<img src="screenshot/flutter_03.png" width="400">
 
 > Item 2
 
-<img src="screenshot/flutter_04.png" width="700">
+<img src="screenshot/flutter_04.png" width="400">
 
 > Item 3
 
-<img src="screenshot/flutter_05.png" width="700">
+<img src="screenshot/flutter_05.png" width="400">
