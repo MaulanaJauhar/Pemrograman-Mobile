@@ -3,6 +3,8 @@ class Item {
   String name;
   String price;
   int stok;
+  String desc;
+  String item_desc;
   double review;
 
   Item(
@@ -10,5 +12,7 @@ class Item {
       required this.name,
       required this.review,
       required this.stok,
+      required this.desc,
+      required this.item_desc,
       required this.price});
 }

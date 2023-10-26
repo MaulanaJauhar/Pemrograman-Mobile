@@ -1,0 +1,5 @@
+{
+  "C_Cpp.experimentalFeatures": "disabled",
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "dart.previewFlutterUiGuides": true
+}
