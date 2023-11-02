@@ -88,7 +88,7 @@ Container(
     child: const Text(
            'You have pushed the button this many times:',
           ),
-),
+)
 ```
 
 > Widget 2 merupakan widget Container yang berfungsi untuk menampilkan widget Text dengan warna background hijau dan lebar 100
