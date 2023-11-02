@@ -73,7 +73,7 @@ Item pada ListView saat ini ketika ditekan masih belum memberikan aksi tertentu.
 
 <img src="screenshot/5_2.png" width="800">
 
-### Tugas Praktikum 2
+### Hasil Akhir Praktikum 5
 
 > Mengubah Kode Program Pada HomePage dan ItemPage
 
@@ -102,3 +102,7 @@ Item pada ListView saat ini ketika ditekan masih belum memberikan aksi tertentu.
 > Item 3
 
 <img src="screenshot/flutter_05.png" width="400">
+
+### Tugas Praktikum 2
+
+> home_page.dart
