@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:master_plan/models/plan.dart';
-import 'package:master_plan/plan_provider.dart';
+import 'package:master_plan/providers/plan_provider.dart';
 import 'package:master_plan/views/plan_creator_screen.dart';
 
 void main() => runApp(const MaterialApp());
